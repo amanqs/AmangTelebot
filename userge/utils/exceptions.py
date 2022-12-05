@@ -18,4 +18,4 @@ class ProcessCanceled(Exception):
 
 
 class UsergeBotNotFound(Exception):
-    """ raise if userge bot not found """
+    """ raise if AmangTelebot bot not found """
